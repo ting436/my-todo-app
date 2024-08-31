@@ -1,0 +1,3 @@
+complete day 19 of python course, start on day 20
+finish digesting the last video for humans reflection, start writing
+come up with ideas for elc video
